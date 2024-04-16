@@ -1,1 +1,0 @@
-vlog design/ram.v design/slave.v design/top.v 
